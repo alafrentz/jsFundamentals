@@ -52,14 +52,6 @@ console.log(x);
 
 var y = 12;
 
-fuction varlet() {
-    var y = 33;
-    if (true) {
-        let y = 45;
-        console.log(y);
-    }
-    console.log(y);
-}
 
 varlet();
 console.log(y);
