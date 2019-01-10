@@ -23,7 +23,7 @@ if (myname = Aaron) {
     console.log('Hello, my name is ' + myName)
     console.log('Hello, my name is' , myName)
     console.log('Hello, my name is ${myName}')
-} esle {
+} esle; {
     console.log('Hello, what is your name?')
 }
 
