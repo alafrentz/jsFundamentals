@@ -28,4 +28,5 @@ console.log(colors.length)
 console.log(colors.toString())
 
 let colors= ['blue', 'green', 'yellow', 'red', 'orange', 'purple']
-console.log( colors instanceof Array)
+console.log( colors instanceof Array).
+color.rev

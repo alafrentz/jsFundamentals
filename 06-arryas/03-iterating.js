@@ -14,4 +14,4 @@ movie.push('Wedding crashers')
 movie.splice(3,1, 'Rain Man')
 console.log('************')
 
-movie.forEach(f =>{console.log(f)});
+movie.forEach(f =>{console.log(f)})
